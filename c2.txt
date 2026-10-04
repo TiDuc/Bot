@@ -1,1 +1,1 @@
-https://scanner-camper-preppy.ngrok-free.dev
+scanner-camper-preppy.ngrok-free.dev
